@@ -1,8 +1,6 @@
 # project-euler
-This repository contains solutions to Project Euler problems.
+This repository contains solutions to Project Euler problems. The problems can be found at https://projecteuler.net/
 
-1, 4, 7, 10, ... solutions are in Python
+1, 3, 5, 7, ... solutions are in Python
 
-2, 5, 8, 11, ... solutions are in Java
-
-3, 6, 9, 12, ... solutions are in C
+2, 4, 6, 8, ... solutions are in Java
