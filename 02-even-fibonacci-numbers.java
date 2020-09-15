@@ -1,3 +1,4 @@
+// IMPORTANT: if downloading, change file name to EvenFibs02.java to match class name
 // 02-even-fibonacci-numbers
 /* By considering the terms in the Fibonacci sequence whose values do not exceed four million, 
 find the sum of the even-valued terms. */
