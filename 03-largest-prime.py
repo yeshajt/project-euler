@@ -1,5 +1,5 @@
 # 03: largest prime factor
-# The purpose of this program
+# The purpose of this program is to find the largest prime factor of the number 600851475143
 
 # import everything!
 import math
